@@ -6,3 +6,4 @@ Another line added locally.
 # First test line for reset
 
 This line was added locally.
+This line combines both local and remote updates.
